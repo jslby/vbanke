@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Сайт «ВБанке»",
+    "description": "",
+    "home_page_url": "https://vbanke.site",
+    "feed_url": "https://vbanke.site/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Ярослав"
+    },
+    "items": [
+    ]
+}
